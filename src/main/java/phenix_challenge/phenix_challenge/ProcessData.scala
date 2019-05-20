@@ -20,7 +20,7 @@ object ProcessData {
 		val t0 = System.nanoTime()
 
 				// files path
-				val path = "C:/Users/sabrine/Downloads/phenix-challenge-master/phenix-challenge-master/data/"
+				val path = "C:/Users/mahmoud/Downloads/phenix-challenge-master/phenix-challenge-master/data/"
 
 				//process date
 				val date = "20170514"
