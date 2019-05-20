@@ -4,3 +4,5 @@ Ce projet permet de déterminer, chaque jour, les 100 produits qui ont les meill
 D'une facon général ce projet génére ces mêmes indicateurs sur les X derniers jours (X nombre de jours a votre choix).
 
 Le code est commenté pour comprendre la logique des traitements.
+
+Vous trouvez dans le répertoire resultats la réponse au besoin demandé en utilisant l'échantillon de données. 
